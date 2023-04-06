@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JoL5GxohtvCtdahNsIOI0+pkMJcJzTqRaV4CRI9x2KUZEulHggNI+MOLohbXhnAWdDN2f+9L3F3ovDOeU/GuSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Priscah\\Quickstart\\src\\client\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Priscah\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
